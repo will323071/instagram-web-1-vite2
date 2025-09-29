@@ -28,4 +28,4 @@ jobs:
         run: |
           echo ${{ secrets.MY_NAME }}
           echo ${{ secrets.MY_HOBBY }}
- 
+          
