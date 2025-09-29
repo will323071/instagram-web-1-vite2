@@ -17,3 +17,5 @@ jobs:
         run: |
           echo "Good"
           echo "Morning"
+          pwd
+          
